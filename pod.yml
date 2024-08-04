@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: web
-      image: oyeah70/qsk-book:latest
+      image: oyeah70/qsk-book:1.0
       ports:
         - containerPort: 8080
